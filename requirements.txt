@@ -18,7 +18,6 @@ argparse
 pymongo
 pytz
 py-tgcalls
-aiohtt
 r7insight-python
 urlextract
 uuid
