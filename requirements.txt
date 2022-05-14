@@ -15,6 +15,12 @@ arrow
 python-dotenv
 emoji
 argparse
+python-arq
+youtube-search-python==1.4.6
+yt-dlp
+python-dotenv
+gTTS
+googletrans==4.0.0rc1
 pymongo
 pytz
 py-tgcalls
