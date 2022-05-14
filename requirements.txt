@@ -17,7 +17,8 @@ emoji
 argparse
 pymongo
 pytz
-idle
+py-tgcalls
+aiohtt
 r7insight-python
 urlextract
 uuid
