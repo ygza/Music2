@@ -25,6 +25,7 @@ redis
 dnspython
 Pillow
 aiofiles
+wget
 aiohttp
 asyncio
 pytgcalls==3.0.0.dev21
